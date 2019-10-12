@@ -2,8 +2,8 @@
 
 SpringBoot BDD/Cucumber + Serenity + MockServer with Maven build
 
-*Tech Stack:
-*Maven 3+
+* Tech Stack:
+* Maven 3+
 *SpringBoot 2+
 *Cucumber 4+
 *Serenity 2+
