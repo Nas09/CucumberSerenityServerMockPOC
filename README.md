@@ -1,8 +1,8 @@
 # updateSubscriberAddressBDD
 
-**SpringBoot BDD/Cucumber + Serenity + MockServer with Maven build**
+SpringBoot BDD/Cucumber + Serenity + MockServer with Maven build
 
-* Tech Stack:
+**Tech Stack:**
 * Maven 3+
 * SpringBoot 2+
 * Cucumber 4+
